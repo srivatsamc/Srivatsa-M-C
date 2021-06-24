@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\excelsoft\Examples\CsharpEssentials\bin\Debug\CsharpEssentials.exe.config
+C:\Users\user\source\repos\excelsoft\Examples\CsharpEssentials\bin\Debug\CsharpEssentials.exe
+C:\Users\user\source\repos\excelsoft\Examples\CsharpEssentials\bin\Debug\CsharpEssentials.pdb
+C:\Users\user\source\repos\excelsoft\Examples\CsharpEssentials\obj\Debug\CsharpEssentials.csprojAssemblyReference.cache
+C:\Users\user\source\repos\excelsoft\Examples\CsharpEssentials\obj\Debug\CsharpEssentials.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\excelsoft\Examples\CsharpEssentials\obj\Debug\CsharpEssentials.exe
+C:\Users\user\source\repos\excelsoft\Examples\CsharpEssentials\obj\Debug\CsharpEssentials.pdb
